@@ -1,6 +1,6 @@
 {
   "name": "level-compare-forks",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Run benchmarks on different level-forks and see how they compare.",
   "main": "compare.js",
   "dependencies": {
