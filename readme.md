@@ -1,6 +1,6 @@
 # level-compare-forks
 
-Automatically configure level-db (including choosing the best distribution)
+Run benchmarks on different level-forks and see how they compare.
 
 [![NPM](https://nodei.co/npm/level-compare-forks.png?downloads&stars)](https://nodei.co/npm/level-compare-forks/)
 
