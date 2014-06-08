@@ -1,0 +1,33 @@
+{
+  "name": "level-compare-forks",
+  "version": "0.0.0",
+  "description": "Automatically configure level-db (including choosing the best distribution)",
+  "main": "compare.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "benchmark": "^1.0.0",
+    "level": "^0.18.0",
+    "level-basho": "^0.18.0",
+    "level-hyper": "^0.18.0",
+    "level-lmdb": "^0.17.0",
+    "rimraf": "^2.2.8",
+    "xtend": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kesla/level-compare-forks.git"
+  },
+  "keywords": [
+    "level"
+  ],
+  "bugs": {
+    "url": "https://github.com/kesla/level-compare-forks/issues"
+  },
+  "homepage": "https://github.com/kesla/level-compare-forks"
+}
