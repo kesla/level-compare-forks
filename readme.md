@@ -1,4 +1,4 @@
-# level-compare-forks[![build status](https://secure.travis-ci.org/kesla/level-compare-forks.png)](http://travis-ci.org/kesla/level-compare-forks)
+# level-compare-forks
 
 Automatically configure level-db (including choosing the best distribution)
 
