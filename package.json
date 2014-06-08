@@ -1,6 +1,6 @@
 {
   "name": "level-compare-forks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Automatically configure level-db (including choosing the best distribution)",
   "main": "compare.js",
   "dependencies": {
